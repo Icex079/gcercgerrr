@@ -122,7 +122,7 @@ section.header-robin div {
     align-items: flex-end;
     padding-right: 4vw;
     position: relative;
-    left: -70px;
+    left: -40px;
     width: 850px;
 }
 
@@ -145,4 +145,5 @@ section.header-robin div p {
     text-align: left;
     
 }
+
 
